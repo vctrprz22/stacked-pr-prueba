@@ -4,6 +4,7 @@ Integrantes:
 
 Michael Dario Gutierrez Quel
 Mario Andreé Maldonado Méndez
+Luis Pablo de León Hernandez...
 
 Funcionalidad de login
 validación del Login
